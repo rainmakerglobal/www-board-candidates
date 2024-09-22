@@ -9,7 +9,7 @@ layout: col-sidebar
 ### About Me
 ![Image](#)
 
-### Link to My Video
+### Link to My Video https://youtu.be/9Ae7s5ckDfY
 
 ### Questions
 
